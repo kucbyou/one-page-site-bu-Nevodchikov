@@ -1,4 +1,4 @@
-@import url('https://www.behance.net/typesthetic');
+
 body {
     background: url("img/fon.jpg") no-repeat top fixed ; 
     background-size:cover;

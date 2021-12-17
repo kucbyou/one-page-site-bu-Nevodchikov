@@ -1,4 +1,5 @@
-@import url('https://www.behance.net/typesthetic');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 .navbar {
     position: fixed;
