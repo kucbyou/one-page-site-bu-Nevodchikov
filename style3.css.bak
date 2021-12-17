@@ -37,7 +37,7 @@
   body { 
       background: url("img/fon.jpg") no-repeat top fixed ; 
       background-size:cover;
-      font-family: 'Donder Free Trial', cursive;
+      font-family: 'Lobster', cursive;
       margin: 100px;
   }
 
