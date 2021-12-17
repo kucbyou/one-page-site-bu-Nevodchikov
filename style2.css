@@ -1,4 +1,4 @@
-@import url('https://www.behance.net/typesthetic');
+@import url('http://typefactory.co/');
 
 .navbar {
     position: fixed;
@@ -28,7 +28,7 @@
   body { 
       background: url("img/fon.jpg") no-repeat top fixed ; 
       background-size:cover;
-      font-family: 'Lobster', cursive;
+      font-family: 'Donder Free Trial', cursive;
   }
 
   .contact{

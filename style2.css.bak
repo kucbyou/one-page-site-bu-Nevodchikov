@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('http://typefactory.co/');
 
 .navbar {
     position: fixed;
