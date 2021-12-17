@@ -96,7 +96,6 @@ body {
     }
     
     p {
-        font-family: 'Fira Sans', sans-serif;
         text-align: justify;
         line-height: 1.9em;
         color: MidnightBlue;
@@ -115,21 +114,7 @@ body {
     
     
     
-    .footer {
-      position: absolute;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      padding: 1rem;
-      background-color: #efefef;
-      text-align: center;
-    width:100%
-    }
-    
-    footer img{
-       width: 50%;
-       display: block; margin: 0 auto;
-    }
+
     
     .imgW {
       width: 100%;
